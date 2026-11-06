@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nivvi</string>
+    <string name="not_medical">This is not a medical device. It does not diagnose, treat or replace professional care.</string>
+    <string name="live_title">Live heart rate</string>
+    <string name="history_title">History</string>
+    <string name="alerts_title">Alerts</string>
+    <string name="device_title">Device</string>
+    <string name="family_title">Family</string>
+    <string name="connected">Connected</string>
+    <string name="scanning">Scanning</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="waiting">Waiting for reading</string>
+    <string name="high_alert">High heart rate alert</string>
+    <string name="low_alert">Low heart rate alert</string>
+    <string name="foreground_notification_title">Nivvi is monitoring</string>
+    <string name="foreground_notification_text">Heart rate live on this phone</string>
+</resources>
